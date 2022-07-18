@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+body > header{
+    background-color: dodgerblue;
+    color: white;
+}
+
+body > footer{
+    padding: 8px;
+    background-color: dodgerblue;
+    color: white;
+    text-align: center;
+}
+
+body > main{
+    margin: auto;
+    width: 90%;
+}
